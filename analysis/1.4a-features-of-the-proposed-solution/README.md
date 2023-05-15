@@ -150,7 +150,26 @@ My main problems with this project and how to possibly solve them:
 
 By combining the use of technical skills, refining the AI model, utilizing suitable data sources and maintaining an ethical approach these challenges can be addressed. Trying to get info or feedback from professionals/highly skilled people could also be helpful, this can be done by watching certain youtube videos of people doing the same idea as me or trying to contact a specific person who could possibly be interested in helping for some reason.
 
-###
+### Technical Research
+
+Angular and Javascript/Typescript
+
+Angular comes with a framework that makes building apps simpler.
+
+
+
+#### Components I will need :(For angular)
+
+My solution will need components to make up the user interface, they will be compatible with Angular. These components will be:
+
+1. Graphing component: This will be used to show line graphs of stock history against other parameter for example seasons, what day of the week it is etc.
+2. Text component: to have the ability to display text on the user interface
+3. Grid component: To show the downloaded stock market data which i would perform regression analysis on to find a correlation between different variables.
+4. Dropdown box component: this will be used to allow users to select stock they want to perform analysis on
+
+Investigate material design and see what it can provide, Do this in next week or so: [https://www.youtube.com/watch?v=k5E2AVpwsko](https://www.youtube.com/watch?v=k5E2AVpwsko)
+
+API's to get the Stock market Data.
 
 ###
 
