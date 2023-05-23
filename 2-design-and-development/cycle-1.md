@@ -2,6 +2,16 @@
 
 ## Design
 
+In this first cycle I decided to use Kaboom JS, an online library supported by Repl. I decided against using PIXI after a trial dev cycle that resulted in much longer code and less resources available to me.
+
+The aim with this cycle was to create a very basic layout and design of what could be considered a first level. I wanted to create very simple shapes that could be used as coins and platforms to better understand the way in which levels and scenes work with mapping symbols in kaboom.&#x20;
+
+I have decided to use Angular JS which is an online, open source library which has the JavaScript framework designed to build dynamic websites. Angular JS extends the functionalities of html as it goes beyond static sites to create interactive web apps.
+
+The aim of this cycle is to create a base level  design of my user interface. I want to create a simplified version of my final product
+
+
+
 ### Objectives
 
 \[describe the cycle]
