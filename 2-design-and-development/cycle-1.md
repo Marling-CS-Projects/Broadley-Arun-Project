@@ -2,7 +2,13 @@
 
 ## Design
 
+
+
+
+
 In this first cycle I decided to use Kaboom JS, an online library supported by Repl. I decided against using PIXI after a trial dev cycle that resulted in much longer code and less resources available to me.
+
+in the first cycle i decided&#x20;
 
 The aim with this cycle was to create a very basic layout and design of what could be considered a first level. I wanted to create very simple shapes that could be used as coins and platforms to better understand the way in which levels and scenes work with mapping symbols in kaboom.&#x20;
 
