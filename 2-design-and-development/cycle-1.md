@@ -4,7 +4,7 @@
 
 
 
-
+In this first cycle i decided to use angular JS, this is an online library which is supported by many platforms and quite easy to learn.&#x20;
 
 In this first cycle I decided to use Kaboom JS, an online library supported by Repl. I decided against using PIXI after a trial dev cycle that resulted in much longer code and less resources available to me.
 
