@@ -22,7 +22,7 @@ The user interface that will be created using Angular JS will enable users to in
 
 Throughout the development cycle, I will continuously test and improve the system to make its accuracy better and more usable. I will try to explore more advanced AI techniques, such as using more features like sentiment analysis of news articles or utilizing deep learning algorithms for more complex pattern recognition leading to more accurate predictions.
 
-In conclusion, by leveraging the capabilities of Angular JS and combining them with linear regression and AI tools, this project aims to develop a powerful stock market prediction system. The intuitive user interface will provide users with the ability to input relevant data and obtain accurate forecasts of stock market trends. With further iterations and enhancements, this system has the potential to become a valuable tool for investors and financial professionals seeking insights into the stock market's future movements.
+In conclusion, by using the many uses of Angular JS and combining them with linear regression and AI tools, this project aims to develop a powerful stock market prediction system. I will try to make an easy to use user interface which will provide users with the ability to input relevant data and obtain accurate forecasts of stock market trends quickly.&#x20;
 
 \
 
