@@ -24,7 +24,7 @@ Objectives for the cycle are described below:
 
 ### Key Angular Pages&#x20;
 
-Each Angular Application is built up of a number of web page components which then can be assemebled to produce the website. For this initial design of the website I've created 4 stub web page components, described below.
+Each Angular Application is built up of a number of web page components which then can be assembled to produce the website. For this initial design of the website I've created 4 stub web page components, described below.
 
 
 
@@ -47,21 +47,31 @@ ng g c history   // create the history web part.
 
 ## Material Design Components
 
+###
+
+###
+
+###
+
 ### Outcome
+
+
 
 ### Challenges
 
-Description of challenges
+Whilst I have used angular before in my EPQ, I had never tried to use the Material Design components within a front end application. It took me quite a while to understand how to implement the components I used and get them to do something even quite basic.
 
 ## Testing
 
-Evidence for testing
+
 
 ### Tests
 
-| Test | Instructions  | What I expect     | What actually happens | Pass/Fail |
-| ---- | ------------- | ----------------- | --------------------- | --------- |
-| 1    | Run code      | Thing happens     | As expected           | Pass      |
-| 2    | Press buttons | Something happens | As expected           | Pass      |
+| Test | Instructions                                               | What I expect                                                                | What actually happens | Pass/Fail |
+| ---- | ---------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------- | --------- |
+| 1    | Run app                                                    | Web page to turn up                                                          | As expected           | Pass      |
+| 2    | Select Auto complete component - tyle 'LL'                 | Dropdown field should only show options that contain 'LL' in text somewhere. | As expected           | Pass      |
+| 3    | Select different Tabs 'Information', 'History', 'Analysis' | Frontend displays the correct web part.                                      | As expected.          |           |
+| 4    | Move to 'History' tab.                                     | Check that grid is shown with one default record                             | As expected           |           |
 
 ### Evidence
