@@ -55,6 +55,8 @@ ng g c history   // create the history web part.
 
 ### Outcome
 
+At the end of my first Cycle I've managed to complete all my required objectives. What I've not done, though, is made the components look nice. To do that I will have to use CSS to define how each of the components should look. I will leave that for another Cycle.
+
 
 
 ### Challenges
@@ -70,8 +72,24 @@ Whilst I have used angular before in my EPQ, I had never tried to use the Materi
 | Test | Instructions                                               | What I expect                                                                | What actually happens | Pass/Fail |
 | ---- | ---------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------- | --------- |
 | 1    | Run app                                                    | Web page to turn up                                                          | As expected           | Pass      |
-| 2    | Select Auto complete component - tyle 'LL'                 | Dropdown field should only show options that contain 'LL' in text somewhere. | As expected           | Pass      |
+| 2    | Select Auto complete component - type 'LL'                 | Dropdown field should only show options that contain 'LL' in text somewhere. | As expected           | Pass      |
 | 3    | Select different Tabs 'Information', 'History', 'Analysis' | Frontend displays the correct web part.                                      | As expected.          |           |
 | 4    | Move to 'History' tab.                                     | Check that grid is shown with one default record                             | As expected           |           |
 
 ### Evidence
+
+1. **Website**&#x20;
+
+**Initial view showing history table.**
+
+![](<../../.gitbook/assets/image (5).png>)
+
+
+
+2. **Main App Component Code and HTML**
+
+<img src="../../.gitbook/assets/image (6).png" alt="" data-size="original">![](<../../.gitbook/assets/image (7).png>)
+
+3. History Component Code and HTML
+
+![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (9).png>)
