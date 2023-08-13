@@ -24,44 +24,49 @@ Objectives for the cycle are described below:
 
 ### Key Angular Pages&#x20;
 
-Each Angular Application is built up of a number of web page components which then can be assemebled to produce the website. For this initial design of the website I've created 4 stub web page components, described below.
+Each Angular Application is built up of a number of web page components which then can be assembled to produce the website. For this initial design of the website I've created 4 stub web page components, described below.
 
 
 
-<table><thead><tr><th width="223">Webpage Component</th><th>Use</th></tr></thead><tbody><tr><td>Header </td><td>The header component contains the title of the webpage, a Stock Selector component and a Button 'Get Info' which will eventually retrieve data for the selected stock from the backend.</td></tr><tr><td>Information</td><td>Currently only in Stub form, this page will show information about the selected stock from the backend of the system.</td></tr><tr><td>History</td><td>This component will show history of share price movements for the stock. Will be implemented using a Table Grid.</td></tr><tr><td>Analysis Component</td><td>This will show the results of the analysis.</td></tr></tbody></table>
+<table><thead><tr><th width="223">Webpage Component</th><th>Use</th></tr></thead><tbody><tr><td>Header </td><td>The header component contains the title of the web-page, a Stock Selector component and a Button 'Get Info' which will eventually retrieve data for the selected stock from the back-end.</td></tr><tr><td>Information</td><td>Currently only in Stub form, this page will show information about the selected stock from the back-end of the system.</td></tr><tr><td>History</td><td>This component will show history of share price movements for the stock. Will be implemented using a Table Grid.</td></tr><tr><td>Analysis Component</td><td>This will show the results of the analysis.</td></tr></tbody></table>
 
 ### Code to setup Application
 
-Basic setup of the&#x20;
+Basic setup of the application was done using a cmd line script.
 
+````
+create.bat
+ng new PredictorFE   // Create new angular application
+cd PredictorFE 
+ng g c header  //  create the header web part.
+ng g c analysis  // create the analysis web part.
+ng g c info      // create the info web part.
+ng g c history   // create the history web part.
 ```
-procedure do_something
-    
-end procedure
-```
+````
 
 ## Material Design Components
 
 
 
-| Different componenents | Explanation of use                                                                                                                                                                                                                                                                                | Image                                                            |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Table                  | Im using a "table" component which is used in my website to display different information like "stock growth" and "history" in a clear way.                                                                                                                                                       | ![](broken-reference)![](<../../.gitbook/assets/image (10).png>) |
-| Button                 | Im using a "button" component which is used in my website to perform actions like "get info" which displays information about a given stock.                                                                                                                                                      | ![](<../../.gitbook/assets/image (1).png>)                       |
-| Tab                    | Im using a "tab" component which is used on my website to allow the user to open different blocks of information on the same table. This information includes a "history" tab that shows historical data of a given stock and "analysis" which shows linear regression analysis of a given stock. | ![](../../.gitbook/assets/image.png)                             |
-| Autocomplete           | Im using an "autocomplete" component which is used on my website in a section where you choose a stock to analyise. The autocomplete component displays all the stock options following the letters you type making it alot easier to select the stock you want.                                  | ![](<../../.gitbook/assets/image (2).png>)                       |
+| Different componenents | Explanation of use                                                                                                                                                                                                                                                                                  | Image                                                            |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Table                  | I am using a "table" component which is used in my website to display different information like "stock growth" and "history" in a clear way.                                                                                                                                                       | ![](broken-reference)![](<../../.gitbook/assets/image (10).png>) |
+| Button                 | I am using a "button" component which is used in my website to perform actions like "get info" which displays information about a given stock.                                                                                                                                                      | ![](<../../.gitbook/assets/image (1) (1).png>)                   |
+| Tab                    | I am using a "tab" component which is used on my website to allow the user to open different blocks of information on the same table. This information includes a "history" tab that shows historical data of a given stock and "analysis" which shows linear regression analysis of a given stock. | ![](<../../.gitbook/assets/image (5).png>)                       |
+| Autocomplete           | I am using an "autocomplete" component which is used on my website in a section where you choose a stock to analyse. The autocomplete component displays all the stock options following the letters you type making it a lot easier to select the stock you want.                                  | ![](<../../.gitbook/assets/image (2) (1).png>)                   |
 
 
 
+### Outcome
 
-
-
+At the end of my first Cycle I've managed to complete all my required objectives. What I've not done, though, is made the components look nice. To do that I will have to use CSS to define how each of the components should look. I will leave that for another Cycle.
 
 
 
 ### Challenges
 
-Description of challenges
+Whilst I have used angular before in my EPQ, I had never tried to use the Material Design components within a front end application. It took me quite a while to understand how to implement the components I used and get them to do something even quite basic.
 
 ## Testing
 
@@ -69,9 +74,20 @@ Evidence for testing
 
 ### Tests
 
-| Test | Instructions  | What I expect     | What actually happens | Pass/Fail |
-| ---- | ------------- | ----------------- | --------------------- | --------- |
-| 1    | Run code      | Thing happens     | As expected           | Pass      |
-| 2    | Press buttons | Something happens | As expected           | Pass      |
+<table><thead><tr><th width="85">Test</th><th>Instructions</th><th>What I expect</th><th>What actually happens</th><th>Pass/Fail</th></tr></thead><tbody><tr><td>1</td><td>Run app</td><td>Thing happens</td><td>As expected</td><td>Pass</td></tr><tr><td>2</td><td>Select Auto complete component - type 'LL'</td><td>Something happens</td><td>As expected</td><td>Pass</td></tr><tr><td>3</td><td>Select different Tabs 'Information', 'History', 'Analysis'</td><td>Front-end displays the correct web pars when tab is selected</td><td>As expected</td><td>Pass</td></tr><tr><td>4</td><td>Move to 'History' tab</td><td>Check that the table grid is shown with one default record.</td><td>As expected</td><td>Pass</td></tr></tbody></table>
 
 ### Evidence
+
+#### Initial Website Setup
+
+![](../../.gitbook/assets/image.png)
+
+#### Main App component Code and HTML.
+
+![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (2).png>)
+
+
+
+#### History Component Code & HTML
+
+![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (4).png>)
