@@ -10,11 +10,7 @@ coverY: 0
 
 in this project I have chosen to utilize angular JS which is an online, open-source library used for JavaScript framework that is easy to learn and has many unique features. angular JS allows me to increase the functionalities of HTML, allowing the creation of interactive web applications rather than just static sites.
 
-The primary objective of this project is to use angular JS with linear regression and AI tools to predict stock market trends. By using AI I aim to develop a working system able to  forecast stock market movements with some sort of degree of accuracy.
-
-
-
-
+The objective of this cycle was to create a quite basic layout for the frontend website. I chose my components from "material design" which is a set of components built by google that can be implemented into my website.&#x20;
 
 
 
