@@ -15,7 +15,7 @@
 ## 2 Design and Development <a href="#design-and-development" id="design-and-development"></a>
 
 * [2.1 Design Frame](design-and-development/2.1-design-frame.md)
-* [2.2.1 Cycle 1 Frontend Setup](design-and-development/cycle-1/README.md)
+* [2.2.1 Cycle 1 : Frontend Setup](design-and-development/cycle-1/README.md)
   * [2.2.2 Cycle 2](design-and-development/cycle-1/systems-diagram.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
