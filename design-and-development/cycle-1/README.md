@@ -40,7 +40,7 @@ procedure do_something
 end procedure
 ```
 
-## Development
+## Material Design Components
 
 ### Outcome
 
