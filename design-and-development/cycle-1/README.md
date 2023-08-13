@@ -10,16 +10,15 @@ coverY: 0
 
 in this project I have chosen to utilize angular JS which is an online, open-source library used for JavaScript framework that is easy to learn and has many unique features. angular JS allows me to increase the functionalities of HTML, allowing the creation of interactive web applications rather than just static sites.
 
-The objective of this cycle was to create a quite basic layout for the frontend website. I chose my components from "material design" which is a set of components built by google that can be implemented into my website.&#x20;
+The objective of this cycle was to Install the required dependencies on my development PC and to then build a basic frontend app using the google's "material design" UI components.&#x20;
 
-
+Objectives for the cycle are described below:
 
 ### Objectives
 
-
-
+* [x] Install required dependencies
 * [x] Create the basic angular frontend application
-* [x] Create the 4 initial web part components, Header, Info,  History and the Analysis Component
+* [x] Create the 4 initial web parts  Header, Info,  History and the Analysis Component
 * [x] Install the Material Design UI Components.
 * [x] Use some of those UI Components in the FrontEnd.
 
