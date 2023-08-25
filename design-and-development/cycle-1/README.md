@@ -52,7 +52,7 @@ ng g c history   // create the history web part.
 | Different componenents | Explanation of use                                                                                                                                                                                                                                                                                  | Image                                                            |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | Table                  | I am using a "table" component which is used in my website to display different information like "stock growth" and "history" in a clear way.                                                                                                                                                       | ![](broken-reference)![](<../../.gitbook/assets/image (10).png>) |
-| Button                 | I am using a "button" component which is used in my website to perform actions like "get info" which displays information about a given stock.                                                                                                                                                      | ![](<../../.gitbook/assets/image (1) (1).png>)                   |
+| Button                 | I am using a "button" component which is used in my website to perform actions like "get info" which displays information about a given stock.                                                                                                                                                      | ![](<../../.gitbook/assets/image (1) (1) (1).png>)               |
 | Tab                    | I am using a "tab" component which is used on my website to allow the user to open different blocks of information on the same table. This information includes a "history" tab that shows historical data of a given stock and "analysis" which shows linear regression analysis of a given stock. | ![](<../../.gitbook/assets/image (5).png>)                       |
 | Autocomplete           | I am using an "autocomplete" component which is used on my website in a section where you choose a stock to analyse. The autocomplete component displays all the stock options following the letters you type making it a lot easier to select the stock you want.                                  | ![](<../../.gitbook/assets/image (2) (1).png>)                   |
 
@@ -80,11 +80,11 @@ Evidence for testing
 
 #### Initial Website Setup
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 #### Main App component Code and HTML.
 
-![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)![](<../../.gitbook/assets/image (2).png>)
 
 
 
