@@ -18,7 +18,8 @@
 * [2.2.1 Cycle 1 : Frontend Setup](design-and-development/cycle-1/README.md)
   * [2.2.2 Cycle 2](design-and-development/cycle-1/systems-diagram.md)
 * [2.2.2 Cycle 2: The Financial Data API](design-and-development/2.2.2-cycle-2-the-financial-data-api.md)
-* [Page](design-and-development/page.md)
+* [2.2.3 Cycle 3: Using the Financial Data from EOD](design-and-development/2.2.3-cycle-3-using-the-financial-data-from-eod.md)
+* [2.2.4 Cycle 4 : Linear Regression](design-and-development/2.2.4-cycle-4-linear-regression.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
 
