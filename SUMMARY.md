@@ -20,6 +20,7 @@
 * [2.2.2 Cycle 2: The Financial Data API](design-and-development/2.2.2-cycle-2-the-financial-data-api.md)
 * [2.2.3 Cycle 3: Retrieving the Analysis Data](design-and-development/2.2.3-cycle-3-retrieving-the-analysis-data.md)
 * [2.2.3 Cycle 4: Linear regression analysis](design-and-development/2.2.3-cycle-4-linear-regression-analysis.md)
+* [2.2.5 Cycle 5 Excel Analysis](design-and-development/2.2.5-cycle-5-excel-analysis.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
 
