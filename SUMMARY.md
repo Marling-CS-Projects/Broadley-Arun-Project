@@ -12,6 +12,10 @@
 * [1.5 Success Criteria](1-analysis/1.5-success-criteria.md)
 * [1.6 Hardware and Software Requirements](1-analysis/1.6-hardware-and-software-requirements.md)
 
+***
+
+* [2.2.6 Cycle 6 : Doing the Analysis in APP](2.2.6-cycle-6-doing-the-analysis-in-app.md)
+
 ## 2 Design and Development <a href="#design-and-development" id="design-and-development"></a>
 
 * [2.1 Design Frame](design-and-development/2.1-design-frame.md)
