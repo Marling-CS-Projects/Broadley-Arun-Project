@@ -22,6 +22,7 @@
 * [2.2.4 Cycle 4: Linear regression analysis](design-and-development/2.2.4-cycle-4-linear-regression-analysis.md)
 * [2.2.5 Cycle 5 Excel Analysis](design-and-development/2.2.5-cycle-5-excel-analysis.md)
 * [2.2.6 Cycle 6 : Doing the Analysis in APP](design-and-development/2.2.6-cycle-6-doing-the-analysis-in-app.md)
+* [2.2.7 Cycle 7 - Setting up the Regression Chart](design-and-development/2.2.7-cycle-7-setting-up-the-regression-chart.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
 
