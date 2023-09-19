@@ -80,7 +80,7 @@ Evidence for testing
 
 #### Initial Website Setup
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 #### Main App component Code and HTML.
 
@@ -90,4 +90,4 @@ Evidence for testing
 
 #### History Component Code & HTML
 
-![](<../../.gitbook/assets/image (3) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
