@@ -25,6 +25,7 @@
 * [2.2.7 Cycle 7 - Setting up the Regression Chart](design-and-development/2.2.7-cycle-7-setting-up-the-regression-chart.md)
 * [2.2.8 Cycle 8 - Updates Needed](design-and-development/2.2.8-cycle-8-updates-needed.md)
 * [2.2.9 Cycle 9 - Backend Server](design-and-development/2.2.9-cycle-9-backend-server.md)
+* [2.2.10 Cycle 10 - Adding Auto-analysis Feature](design-and-development/2.2.10-cycle-10-adding-auto-analysis-feature.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
 
