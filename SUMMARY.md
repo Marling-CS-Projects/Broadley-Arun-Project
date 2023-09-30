@@ -1,10 +1,8 @@
 # Table of contents
 
-* [1.1 Problem Identification](README.md)
-
 ## 1 Analysis <a href="#analysis" id="analysis"></a>
 
-* [1.1 Problem Identification](1-analysis/1.1-problem-identification.md)
+* [1.1 Problem Identification](README.md)
 * [1.2 Stakeholders](1-analysis/1.2-stakeholders.md)
 * [1.3 Research](1-analysis/1.3-research-the-problem.md)
 * [1.4a Features of Proposed Solution](analysis/1.4a-features-of-the-proposed-solution.md)
