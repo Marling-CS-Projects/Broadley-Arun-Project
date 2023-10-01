@@ -6,10 +6,6 @@ coverY: 0
 
 ## Design
 
-
-
-in this project I have chosen to utilize angular JS which is an online, open-source library used for JavaScript framework that is easy to learn and has many unique features. angular JS allows me to increase the functionalities of HTML, allowing the creation of interactive web applications rather than just static sites.
-
 The objective of this cycle was to Install the required dependencies on my development PC and to then build a basic frontend app using google's "Material Design" UI components.&#x20;
 
 Objectives for the cycle are described below:
@@ -49,12 +45,12 @@ ng g c history   // create the history web part.
 
 
 
-| Different componenents | Explanation of use                                                                                                                                                                                                                                                                                  | Image                                                                      |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| Table                  | I am using a "table" component which is used in my website to display different information like "stock growth" and "history" in a clear way.                                                                                                                                                       | ![](broken-reference)![](<../../.gitbook/assets/image (10).png>)           |
-| Button                 | I am using a "button" component which is used in my website to perform actions like "get info" which displays information about a given stock.                                                                                                                                                      | ![](<../../.gitbook/assets/image (1) (1) (2).png>)                         |
-| Tab                    | I am using a "tab" component which is used on my website to allow the user to open different blocks of information on the same table. This information includes a "history" tab that shows historical data of a given stock and "analysis" which shows linear regression analysis of a given stock. | ![](<../../.gitbook/assets/image (5) (1).png>)                             |
-| Autocomplete           | I am using an "autocomplete" component which is used on my website in a section where you choose a stock to analyse. The autocomplete component displays all the stock options following the letters you type making it a lot easier to select the stock you want.                                  | ![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png>) |
+| Different componenents | Explanation of use                                                                                                                                                                                                                                                                                  | Image                                                                   |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Table                  | I am using a "table" component which is used in my website to display different information like "stock growth" and "history" in a clear way.                                                                                                                                                       | ![](broken-reference)![](<../.gitbook/assets/image (10).png>)           |
+| Button                 | I am using a "button" component which is used in my website to perform actions like "get info" which displays information about a given stock.                                                                                                                                                      | ![](<../.gitbook/assets/image (1) (1) (2).png>)                         |
+| Tab                    | I am using a "tab" component which is used on my website to allow the user to open different blocks of information on the same table. This information includes a "history" tab that shows historical data of a given stock and "analysis" which shows linear regression analysis of a given stock. | ![](<../.gitbook/assets/image (5) (1).png>)                             |
+| Autocomplete           | I am using an "autocomplete" component which is used on my website in a section where you choose a stock to analyse. The autocomplete component displays all the stock options following the letters you type making it a lot easier to select the stock you want.                                  | ![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png>) |
 
 
 
@@ -80,14 +76,14 @@ See Evidence in the evidence section.
 
 #### Initial Website Setup
 
-![](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 #### Main App component Code and HTML.
 
-![](<../../.gitbook/assets/image (1) (2).png>)![](<../../.gitbook/assets/image (2) (2).png>)
+![](<../.gitbook/assets/image (1) (2).png>)![](<../.gitbook/assets/image (2) (2).png>)
 
 
 
 #### History Component Code & HTML
 
-![](<../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
