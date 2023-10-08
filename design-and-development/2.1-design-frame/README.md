@@ -1,8 +1,32 @@
+---
+description: >-
+  This page describes the structure of the project and the tasks I will need to
+  do to build the project.
+---
+
 # 2.1 Design Frame
 
 ## Systems Diagram
 
-![](<../.gitbook/assets/image (21).png>)
+<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption><p>Predictor App</p></figcaption></figure>
+
+The design of the predictor app has 3 main components.
+
+* Front-End
+
+The front end is the core part that the user interacts with and is described in more detail in section 2.1.1
+
+* Back-End
+
+Backend components will be written using Node and will be responsible for retrieving data from our data provider. Currently EODHD.COM. The component will be described in 2.1.2
+
+* Financial Data API
+
+The last component is the Data provider. I only have to interface to their API's to retrieve data my solution needs to operate.
+
+## Component Tasks breakdown.
+
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 This chart shows the different tasks I need to do to complete my project. I've colour-coded each task showing whether It must be done, should be done or could be done.  I will focus on the 'Must' and 'Should' tasks first and leave the 'Could's until the end when I will know how well I'm doing in time.
 
