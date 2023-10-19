@@ -88,7 +88,7 @@ Test 1,3 evidence.
 
 
 
-#### Main App component Code and HTML.
+#### Main App Component Code and HTML.
 
 ![](<../../.gitbook/assets/image (1) (2).png>)![](<../../.gitbook/assets/image (2) (2).png>)
 
@@ -96,4 +96,4 @@ Test 1,3 evidence.
 
 #### History Component Code & HTML
 
-![](<../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (88).png>)
