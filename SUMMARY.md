@@ -12,10 +12,10 @@
 
 ## 2 Design and Development <a href="#design-and-development" id="design-and-development"></a>
 
-* [2.1 Design Frame](design-and-development/2.1-design-frame/README.md)
-  * [2.1.3 Classes Required](design-and-development/2.1-design-frame/2.1.3-classes-required.md)
-  * [2.1.1 Front-End Design](design-and-development/2.1-design-frame/2.1.1-front-end-design.md)
-  * [2.1.2 Backend Design](design-and-development/2.1-design-frame/2.1.2-backend-design.md)
+* [2.1 Design Frame](design-and-development/2.1-design-frame.md)
+* [2.1.1 Front-End Design](design-and-development/2.1.1-front-end-design.md)
+* [2.1.2 Backend Design](design-and-development/2.1.2-backend-design.md)
+* [2.1.3 Classes Required](design-and-development/2.1.3-classes-required.md)
 * [2.2.1 Cycle 1 : Frontend Setup](design-and-development/cycle-1/README.md)
 * [2.2.2 Cycle 2: The Financial Data API](design-and-development/2.2.2-cycle-2-the-financial-data-api.md)
 * [2.2.3 Cycle 3: Retrieving the Analysis Data](design-and-development/2.2.3-cycle-3-retrieving-the-analysis-data.md)
