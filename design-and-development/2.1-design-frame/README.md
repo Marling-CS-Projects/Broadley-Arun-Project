@@ -10,19 +10,19 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption><p>Predictor App</p></figcaption></figure>
 
-The design of the predictor app has 3 main components.
+The design of the predictor app has 3 main sections.
 
 * Front-End
 
-The front end is the core part that the user interacts with and is described in more detail in section 2.1.1
+The front end will be written Angular and Javascript is the core part that the user will interact with and is described in more detail in section 2.1.1
 
 * Back-End
 
-Backend components will be written using Node and will be responsible for retrieving data from our data provider. Currently EODHD.COM. The component will be described in 2.1.2
+Backend components will be written using Node and Javascript and will be responsible for retrieving data from our data provider. Currently EODHD.COM. The component will be described in 2.1.2
 
-* Financial Data API
+* Financial Data API&#x20;
 
-The last component is the Data provider. I only have to interface to their API's to retrieve data my solution needs to operate.
+The last component is the Data provider. I will have to interface to their API's to retrieve data my solution needs to operate.
 
 ## Component Tasks breakdown.
 
@@ -32,7 +32,7 @@ This chart shows the different tasks I need to do to complete my project. I've c
 
 ## Getting The Data
 
-The main part of this project is getting the historical data on stock price movements for selected stocks, At this point I've decided to use a paid for service from www.eodhd.com, the main reason behind choosing them is that they have lots of documentation and examples which should make it easier to do the build. From their documentation it looks like I can get history for the following:
+The main part of this project is getting the historical data on stock price movements for selected stocks, At this point I've decided to use a paid-for service from www.eodhd.com, the main reason behind choosing them is that they have lots of documentation and examples which should make it easier to do the build. From their documentation it looks like I can get a history for the following:
 
 * Stock Price
 * Volume
@@ -46,11 +46,9 @@ The main part of this project is getting the historical data on stock price move
 
 Create a function that allows the user to download the above information consistently from EODHD.COM and structure it in a way that we can then do an analysis of the collected data.
 
-
-
 ## The Calculations
 
-I have decided to base most of the predictions I'm trying to make from Linear Regression. I will use one of the open Javascript Statistics packages to do the actual calculation. I also plan to spend some time setting up the calculations in Excel. This will allow me to test the results coming from the statistics libray.
+I have decided to base most of the predictions I'm trying to make using Linear Regression. To save time and increase accuracy, I will use one of the open source Javascript Statistics packages to do the actual calculations. I also plan to spend some time setting up the calculations in Excel. This will allow me to test the results coming from the statistics library.
 
 ### Aim
 
