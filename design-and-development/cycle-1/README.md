@@ -18,6 +18,18 @@ Objectives for the cycle are described below:
 * [x] Install the Material Design UI Components.
 * [x] Use some of those UI Components in the FrontEnd.
 
+
+
+
+
+### Task Breakdown&#x20;
+
+* Initial angular template
+* Setup angular components
+* Github
+
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+
 ### Key Angular Pages&#x20;
 
 Each Angular Application is built up of a number of web page components which then can be assembled to produce the website. For this initial design of the website, I've created 4 stub web page components, described below.
