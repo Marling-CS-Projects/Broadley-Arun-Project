@@ -12,17 +12,17 @@ description: >-
 
 The design of the predictor app has 3 main sections.
 
-* Front-End
+* **Front-End**
 
 The front end will be written Angular and Javascript is the core part that the user will interact with and is described in more detail in section 2.1.1
 
-* Back-End
+* **Back-End**
 
 Backend components will be written using Node and Javascript and will be responsible for retrieving data from our data provider. Currently EODHD.COM. The component will be described in 2.1.2
 
-* Financial Data API&#x20;
+* **Data Provision & Calculations**&#x20;
 
-The last component is the Data provider. I will have to interface to their API's to retrieve data my solution needs to operate.
+The last component is the Data provision and calculations. I will have to interface to their API's to retrieve data my solution needs to operate.&#x20;
 
 ## Component Tasks breakdown.
 
